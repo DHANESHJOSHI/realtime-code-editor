@@ -101,7 +101,6 @@ const EditorPage = () => {
                             src="https://techwithjoshi.vercel.app/assets/image/logo-techwithjoshi.svg"
                             alt="logo"
                         />
-                        {/* ///code-sync.png */}
                     </div>
                     <h3>Connected</h3>
                     <div className="clientsList">
